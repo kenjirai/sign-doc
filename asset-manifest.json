@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kenjirai/signthedoc/static/css/main.8508ff48.chunk.css",
-    "main.js": "/kenjirai/signthedoc/static/js/main.8d11b2ae.chunk.js",
-    "main.js.map": "/kenjirai/signthedoc/static/js/main.8d11b2ae.chunk.js.map",
-    "runtime~main.js": "/kenjirai/signthedoc/static/js/runtime~main.5f655995.js",
-    "runtime~main.js.map": "/kenjirai/signthedoc/static/js/runtime~main.5f655995.js.map",
-    "static/css/2.c7bb94bc.chunk.css": "/kenjirai/signthedoc/static/css/2.c7bb94bc.chunk.css",
-    "static/js/2.f6ffbcd9.chunk.js": "/kenjirai/signthedoc/static/js/2.f6ffbcd9.chunk.js",
-    "static/js/2.f6ffbcd9.chunk.js.map": "/kenjirai/signthedoc/static/js/2.f6ffbcd9.chunk.js.map",
-    "index.html": "/kenjirai/signthedoc/index.html",
-    "precache-manifest.151e7803faed94700a274a020f368294.js": "/kenjirai/signthedoc/precache-manifest.151e7803faed94700a274a020f368294.js",
-    "service-worker.js": "/kenjirai/signthedoc/service-worker.js",
-    "static/css/2.c7bb94bc.chunk.css.map": "/kenjirai/signthedoc/static/css/2.c7bb94bc.chunk.css.map",
-    "static/css/main.8508ff48.chunk.css.map": "/kenjirai/signthedoc/static/css/main.8508ff48.chunk.css.map"
+    "main.css": "/kenjirai/sign-doc/static/css/main.8508ff48.chunk.css",
+    "main.js": "/kenjirai/sign-doc/static/js/main.c3988484.chunk.js",
+    "main.js.map": "/kenjirai/sign-doc/static/js/main.c3988484.chunk.js.map",
+    "runtime~main.js": "/kenjirai/sign-doc/static/js/runtime~main.77916654.js",
+    "runtime~main.js.map": "/kenjirai/sign-doc/static/js/runtime~main.77916654.js.map",
+    "static/css/2.c7bb94bc.chunk.css": "/kenjirai/sign-doc/static/css/2.c7bb94bc.chunk.css",
+    "static/js/2.ec593049.chunk.js": "/kenjirai/sign-doc/static/js/2.ec593049.chunk.js",
+    "static/js/2.ec593049.chunk.js.map": "/kenjirai/sign-doc/static/js/2.ec593049.chunk.js.map",
+    "index.html": "/kenjirai/sign-doc/index.html",
+    "precache-manifest.80af23370733248ebbc08be9c8fda557.js": "/kenjirai/sign-doc/precache-manifest.80af23370733248ebbc08be9c8fda557.js",
+    "service-worker.js": "/kenjirai/sign-doc/service-worker.js",
+    "static/css/2.c7bb94bc.chunk.css.map": "/kenjirai/sign-doc/static/css/2.c7bb94bc.chunk.css.map",
+    "static/css/main.8508ff48.chunk.css.map": "/kenjirai/sign-doc/static/css/main.8508ff48.chunk.css.map"
   }
 }
